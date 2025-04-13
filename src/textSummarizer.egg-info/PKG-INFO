@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: 
+Author: pravinsridhar
+Author-email: pravinsrdhr@gmail.com
+Project-URL: Bug Tracker, 
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: project-url
+Dynamic: summary
